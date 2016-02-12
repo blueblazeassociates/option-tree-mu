@@ -1,7 +1,7 @@
 {
   "name": "blueblazeassociates/option-tree",
   "description": "Theme Options UI Builder for WordPress.",
-  "type": "wordpress-plugin",
+  "type": "wordpress-muplugin",
   "homepage": "https://github.com/valendesigns/option-tree",
   "license": "GPL-3.0",
   "authors": [
@@ -15,6 +15,6 @@
   "require": {
   },
   "autoload": {
-    "files": ["ot-loader.php"]
+    "files": []
   }
 }
